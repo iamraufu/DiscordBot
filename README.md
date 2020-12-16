@@ -9,12 +9,14 @@ This Discord bot is made using **Python** and host it for free in the cloud usin
 # About Discord Bot
 We need 
 <ul>
- <li>*Discord Api*</li> 
- <li>*Python Library*</li>  
- <li>cloud comouting platfrom called *Repl.it*</li>
+ <li><b>Discord Api</li> 
+ <li><b>Python Library</li>  
+ <li>cloud computing platfrom called <b>Repl.it</li>
  </ul>
+
+For **Continous Connection** purpose I used *keep_alive.py* 
  
-**Note**: I saved my discord bot token in another *.env* file. You can put it here instead of *TOKEN*
+**Note**: As *Repl.it* is public free hosting site, therefore anyone can access to my *main.py*. That is why I saved my discord bot token in another *.env* file. You can put it in *client.run* method instead of writing *TOKEN*.
 
 *DM* me for any queries
 https://iamraufu.github.io/
